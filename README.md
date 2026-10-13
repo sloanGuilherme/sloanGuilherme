@@ -2,7 +2,8 @@
 
 **`Dev Sec`**
 
-Me Chamo Sloan Guilherme sou estudante de Analise Desenvolvimento de Sistemas e gosto bastante de tecnologia, principalmente a aréa de segurança. Me considero bastante curioso e uma pessoa que gosta de resolver problemas e achar eles. E se eu tiver um problema eu vou resolver, nem que passe dia e noite.
+Estudante de Análise e Desenvolvimento de Sistemas (ADS) na Fatec Campinas, com interesse em tecnologia, programação, redes e, principalmente, Cibersegurança.
+Estou construindo minha jornada na área de tecnologia, desenvolvendo projetos práticos e aprimorando meus conhecimentos em programação, sistemas operacionais, redes de computadores e segurança da informação.
 
 <p align="left">
      
